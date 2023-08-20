@@ -19,6 +19,7 @@ export const usePowerGridInfo = () => {
     "DG+Battery": "magenta",
     "DG+Solar+Battery": "cyan",
     "DG+Battery+Solar": "cyan",
+    "DG+Solar": "tomato",
     Undetermined: "#BBE3FD",
     "Missing Data": "white",
   };
